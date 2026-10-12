@@ -1,0 +1,46 @@
+import {chromium} from '@playwright/test';
+import assert from 'node:assert/strict';
+import {mkdir,writeFile} from 'node:fs/promises';
+const base=process.env.TEST_BASE_URL||'http://localhost:4173';
+const browser=await chromium.launch({channel:'msedge',headless:true});
+const context=await browser.newContext({viewport:{width:1440,height:1000}});
+await context.addInitScript(()=>{
+  class MockUtterance{constructor(text){this.text=text;this.lang='';this.rate=1;}}
+  const spoken=[];Object.defineProperty(window,'__spoken',{value:spoken});
+  Object.defineProperty(window,'SpeechSynthesisUtterance',{value:MockUtterance,configurable:true});
+  Object.defineProperty(window,'speechSynthesis',{value:{cancel(){},getVoices(){return[{lang:'ja-JP'},{lang:'en-US'}];},speak(u){spoken.push({text:u.text,lang:u.lang,voice:u.voice?.lang});}},configurable:true});
+});
+const page=await context.newPage(),errors=[];
+page.on('pageerror',e=>errors.push(e.message));
+page.on('console',message=>{if(message.type()==='error'){const value=message.text();errors.push(value);console.error(`BROWSER CONSOLE: ${value}`);}});
+await mkdir('test-results',{recursive:true});
+async function state(id='boeki'){return page.evaluate(async id=>{const {readProfile}=await import('./js/storage.js');return readProfile(id);},id);}
+async function goto(route){await page.goto(`${base}/?profile=boeki#${route}`);await page.locator(`#main[data-route="${route}"]`).waitFor();}
+try{
+  await goto('home');let p=await state();assert.equal(p.words.length,198);assert.equal(p.schemaVersion,3);assert(p.words.every(w=>w.japanese&&w.kana&&w.vietnamese));assert(p.words.every(w=>w.english));assert.equal(Object.keys(p.skillProgress).length,0);assert.equal((await state('toeic')).words.length,257);
+  assert.equal(await page.locator('.skill-progress').count(),3);await page.screenshot({path:'test-results/boeki-trilingual-desktop.png',fullPage:true});
+  await goto('library');const row=page.locator('.trilingual-row').first();await row.waitFor();const first=p.words[0];assert.match(await row.innerText(),new RegExp(first.japanese));assert.match(await row.innerText(),new RegExp(first.kana));assert.match((await row.innerText()).toLowerCase(),new RegExp(first.english.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));assert.match(await row.innerText(),new RegExp(first.vietnamese));
+  await page.locator('[data-action="toggle-lang"][data-lang="en"]').click();await page.locator('.memory-mask').first().waitFor();assert.match(await page.locator('.trilingual-row').first().innerText(),/••••••/);await page.locator('#search').fill(first.english);await page.waitForTimeout(250);assert(await page.locator('.trilingual-row').count()>0);await page.locator('[data-action="toggle-lang"][data-lang="en"]').click();
+  await goto('learn');for(const box of await page.locator('[name="direction"]').all())if(await box.isChecked())await box.uncheck();await page.locator('[name="direction"][value="ja_en"]').check();await page.locator('#boeki-direction-form button[type=submit]').click();await page.locator('.flashcard').waitFor();p=await state();let s=p.activeSession,entry=s.queue[s.index],word=p.words.find(w=>w.id===entry.wordId);assert.equal(entry.skill,'ja_en');assert.equal(await page.locator('.card-face').first().getAttribute('aria-hidden'),null);assert(!((await page.locator('.card-face').first().innerText()).toLowerCase().includes(word.english.toLowerCase())),'Japanese → English front leaked the English answer');
+  await page.locator('[data-action="session-speak-lang"][data-lang="ja-JP"]').click();await page.waitForFunction(()=>window.__spoken.length===1);await page.locator('[data-action="session-speak-lang"][data-lang="en-US"]').click();await page.waitForFunction(()=>window.__spoken.length===2);const spoken=await page.evaluate(()=>window.__spoken);assert.deepEqual(spoken.map(x=>x.lang),['ja-JP','en-US']);assert.equal(spoken[0].text,word.japanese);assert.equal(spoken[1].text,word.english);
+  await page.locator('.flashcard').click();assert.match(await page.locator('.card-face.back').innerText(),new RegExp(word.english.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'));await page.locator('[data-rating="good"]').click();p=await state();assert(p.skillProgress[word.id].ja_en);assert.equal(p.skillProgress[word.id].en_ja,undefined);await page.reload();await page.locator('.flashcard').waitFor();assert((await state()).activeSession.boeki);await page.locator('[data-action="finish-session"]').click();await page.locator('.result').waitFor();
+  await goto('learn');await page.locator('[data-mode="boeki-en-ja"]').click();await page.locator('.answer').first().waitFor();p=await state();s=p.activeSession;assert.equal(s.queue[s.index].skill,'en_ja');assert.match(await page.locator('.quiz-prompt').innerText(),new RegExp(p.words.find(w=>w.id===s.queue[s.index].wordId).english.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'));await page.locator('.answer').filter({hasText:s.expected}).click();await page.locator('.feedback').waitFor();p=await state();assert(p.skillProgress[p.activeSession.queue[p.activeSession.index].wordId].en_ja);await page.locator('[data-action="finish-session"]').click();await page.locator('.result').waitFor();
+  await goto('library');await page.locator('[data-action="import"]').click();const modern=[{id:'new-missing-en',japanese:'税関検査',kana:'ぜいかんけんさ',romaji:'zeikan kensa',english:'',englishAliases:[],abbreviation:'',vietnamese:'kiểm tra hải quan',category:'Hải quan',exampleJa:'',exampleEn:'',exampleVi:'',notes:'Dữ liệu kiểm thử'}];await page.locator('#import-form input[type=file]').setInputFiles({name:'boeki-new.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(modern))});await page.locator('#import-form button').click();await page.waitForFunction(()=>!document.querySelector('#modal').open);p=await state();assert.equal(p.words.length,199);const missing=p.words.find(w=>w.japanese==='税関検査');assert(missing.englishMissing);assert.equal(missing.english,'');
+  await page.locator('[data-filter="status"]').selectOption('english');await page.locator('#search').fill('税関検査');await page.waitForTimeout(150);assert((await page.locator('.trilingual-row').allInnerTexts()).some(x=>x.includes('税関検査')));
+  await page.goto(`${base}/?profile=boeki#study-card?word=${encodeURIComponent(first.id)}&skill=ja_en`);await page.locator('#main[data-route="study"]').waitFor();p=await state();assert.equal(p.activeSession.queue.length,1);assert.equal(p.activeSession.queue[0].wordId,first.id);assert.equal(p.activeSession.queue[0].skill,'ja_en');assert(!((await page.locator('.card-face').first().innerText()).toLowerCase().includes(first.english.toLowerCase())));
+  await page.locator('.flashcard').click();await page.waitForFunction(()=>!document.querySelector('[data-rating="easy"]').disabled);await page.locator('[data-rating="easy"]').click();await page.locator('.result').waitFor();p=await state();assert(p.skillProgress[first.id].ja_en);const toeic=await state('toeic');assert.equal(toeic.skillProgress&&Object.keys(toeic.skillProgress).length,0);assert.equal(toeic.words.length,257);
+  for(const [skill,prompt,answers] of [
+    ['en_ja',first.english,[first.japanese]],
+    ['vi_both',first.vietnamese,[first.japanese,first.english]],
+    ['kanji_kana',first.japanese,[first.kana]]
+  ]){
+    await page.goto(`${base}/?profile=boeki#study-card?word=${encodeURIComponent(first.id)}&skill=${skill}`);await page.locator('#main[data-route="study"]').waitFor();
+    p=await state();assert.equal(p.activeSession.queue.length,1);assert.equal(p.activeSession.queue[0].skill,skill);assert((await page.locator('.card-face').first().innerText()).includes(prompt));
+    await page.locator('.flashcard').click();const back=await page.locator('.card-face.back').innerText();for(const answer of answers)assert(back.includes(answer));
+    await page.waitForFunction(()=>!document.querySelector('[data-rating="easy"]').disabled);await page.locator('[data-rating="easy"]').click();await page.locator('.result').waitFor();
+  }
+  p=await state();for(const skill of ['ja_en','en_ja','vi_both','kanji_kana'])assert(p.skillProgress[first.id][skill]);
+  await goto('reminders');for(const value of ['ja_en','en_ja','kana','mistakes'])assert(await page.locator(`[name="boekiType"][value="${value}"]`).isChecked());
+  await page.setViewportSize({width:390,height:844});await goto('home');assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:'test-results/boeki-trilingual-mobile.png',fullPage:true});for(const route of ['library','learn','reminders']){await goto(route);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`Overflow on ${route}`);}
+  assert.deepEqual(errors,[]);console.log('PASS: BOEKI old-schema migration, trilingual library/search/hide, Japanese→English, English→Japanese, Vietnamese→Japanese+English and Kanji→Kana flashcards, ja/en speech languages, independent skill SRS, English→Japanese quiz, new-schema missing-English import, exact notification deep link, TOEIC isolation, responsive layouts; no page or console errors.');
+}catch(error){await page.screenshot({path:'test-results/boeki-failure.png',fullPage:true});await writeFile('test-results/boeki-failure.html',await page.content());throw error;}finally{await browser.close();}

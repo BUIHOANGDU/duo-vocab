@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+.env
+backend/runtime/
+test-results/
+.preview/
+.site-checkout/
+duo-vocab-site.tar.gz

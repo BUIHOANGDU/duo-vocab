@@ -1,0 +1,1813 @@
+{
+  "title": "Từ vựng 貿易 (Nhật–Anh–Việt) — Chapters 1–2, mục 1–198",
+  "source": "Ảnh chụp từ Chap 1-2.pdf do người dùng gửi trong cuộc trò chuyện",
+  "coverage": "198 mục đầy đủ, từ 1 đến 198. Không lặp các mục từ ảnh chụp chồng nhau.",
+  "total": 198,
+  "sections": [
+    {
+      "id": "trade_basics_lc_shipping_documents",
+      "title": "Chapter 1 · Trade Basics / L-C / Shipping Documents"
+    },
+    {
+      "id": "shipping_regulation_business_models",
+      "title": "Chapter 1 · Shipping / Regulation / Business Models"
+    },
+    {
+      "id": "market_research_sales_contract_practice",
+      "title": "Chapter 2 · Market Research / Sales / Contract Practice"
+    },
+    {
+      "id": "offer_acceptance_contract_terms",
+      "title": "Chapter 2 · Offer / Acceptance / Contract Terms"
+    },
+    {
+      "id": "credit_investigation_lc_types_payment_methods",
+      "title": "Chapter 2 · Credit Investigation / L/C Types / Payment Methods"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "貿易取引",
+      "hiragana": "ぼうえきとりひき",
+      "english": "Trade Transaction",
+      "vietnamese": "Giao dịch thương mại"
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "売主",
+      "hiragana": "うりぬし",
+      "english": "Seller",
+      "vietnamese": "Người bán"
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "買主",
+      "hiragana": "かいぬし",
+      "english": "Buyer",
+      "vietnamese": "Người mua"
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "船積み",
+      "hiragana": "ふなづみ",
+      "english": "Shipment / Loading on Board",
+      "vietnamese": "Xếp hàng lên tàu / giao hàng"
+    },
+    {
+      "id": 5,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "代金決済方法等",
+      "hiragana": "だいきんけっさいほうほうとう",
+      "english": "Payment Method, etc.",
+      "vietnamese": "Phương thức thanh toán"
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "信用リスク",
+      "hiragana": "しんようりすく",
+      "english": "Credit Risk",
+      "vietnamese": "Rủi ro tín dụng"
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "代金回収リスク",
+      "hiragana": "だいきんかいしゅうりすく",
+      "english": "Collection Risk",
+      "vietnamese": "Rủi ro thu hồi tiền hàng"
+    },
+    {
+      "id": 8,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "商品入手リスク",
+      "hiragana": "しょうひんにゅうしゅりすく",
+      "english": "Risk of Not Obtaining Goods",
+      "vietnamese": "Rủi ro không nhận được hàng"
+    },
+    {
+      "id": 9,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "輸送途上",
+      "hiragana": "ゆそうとじょう",
+      "english": "During Transit",
+      "vietnamese": "Quá trình / tuyến vận chuyển"
+    },
+    {
+      "id": 10,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "貨物の変質",
+      "hiragana": "かもつのへんしつ",
+      "english": "Deterioration of Cargo",
+      "vietnamese": "Hàng hóa bị thay đổi chất lượng"
+    },
+    {
+      "id": 11,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "損傷",
+      "hiragana": "そんしょう",
+      "english": "Damage",
+      "vietnamese": "Hư hỏng"
+    },
+    {
+      "id": 12,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "資金負担",
+      "hiragana": "しきんふたん",
+      "english": "Financial Burden",
+      "vietnamese": "Gánh nặng tài chính"
+    },
+    {
+      "id": 13,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "事故リスク",
+      "hiragana": "じこりすく",
+      "english": "Accident Risk",
+      "vietnamese": "Rủi ro tai nạn"
+    },
+    {
+      "id": 14,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "売買契約",
+      "hiragana": "ばいばいけいやく",
+      "english": "Sales Contract",
+      "vietnamese": "Hợp đồng mua bán"
+    },
+    {
+      "id": 15,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "信用状",
+      "hiragana": "しんようじょう",
+      "english": "Letter of Credit (L/C)",
+      "vietnamese": "Thư tín dụng (L/C)"
+    },
+    {
+      "id": 16,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "荷為替手形",
+      "hiragana": "にかわせてがた",
+      "english": "Documentary Bill of Exchange",
+      "vietnamese": "Hối phiếu kèm chứng từ"
+    },
+    {
+      "id": 17,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "発行依頼",
+      "hiragana": "はっこういらい",
+      "english": "Application for Issuance",
+      "vietnamese": "Yêu cầu phát hành"
+    },
+    {
+      "id": 18,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "信用状の通知",
+      "hiragana": "しんようじょうのつうち",
+      "english": "Advice of L/C",
+      "vietnamese": "Thông báo L/C"
+    },
+    {
+      "id": 19,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "通知銀行",
+      "hiragana": "つうちぎんこう",
+      "english": "Advising Bank",
+      "vietnamese": "Ngân hàng thông báo"
+    },
+    {
+      "id": 20,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "保険付保",
+      "hiragana": "ほけんふほ",
+      "english": "Insurance Coverage",
+      "vietnamese": "Mua / tham gia bảo hiểm"
+    },
+    {
+      "id": 21,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "信用状条件通り",
+      "hiragana": "しんようじょうじょうけんどおり",
+      "english": "In Accordance with L/C Terms",
+      "vietnamese": "Phù hợp điều kiện L/C"
+    },
+    {
+      "id": 22,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "保険契約",
+      "hiragana": "ほけんけいやく",
+      "english": "Insurance Contract",
+      "vietnamese": "Hợp đồng bảo hiểm"
+    },
+    {
+      "id": 23,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "保険証券",
+      "hiragana": "ほけんしょうけん",
+      "english": "Insurance Policy",
+      "vietnamese": "Giấy chứng nhận bảo hiểm"
+    },
+    {
+      "id": 24,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "海上輸送",
+      "hiragana": "かいじょうゆそう",
+      "english": "Maritime Transport",
+      "vietnamese": "Vận chuyển đường biển"
+    },
+    {
+      "id": 25,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "船荷証券",
+      "hiragana": "ふなにしょうけん",
+      "english": "Bill of Lading (B/L)",
+      "vietnamese": "Vận đơn đường biển"
+    },
+    {
+      "id": 26,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "為替手形",
+      "hiragana": "かわせてがた",
+      "english": "Bill of Exchange",
+      "vietnamese": "Hối phiếu"
+    },
+    {
+      "id": 27,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "梱包",
+      "hiragana": "こんぽう",
+      "english": "Packing",
+      "vietnamese": "Đóng gói"
+    },
+    {
+      "id": 28,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "パッキングリスト",
+      "hiragana": "ぱっきんぐりすと",
+      "english": "Packing List",
+      "vietnamese": "Phiếu đóng gói"
+    },
+    {
+      "id": 29,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "船積書類",
+      "hiragana": "ふなづみしょるい",
+      "english": "Shipping Documents",
+      "vietnamese": "Bộ chứng từ xếp hàng lên tàu"
+    },
+    {
+      "id": 30,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "手形",
+      "hiragana": "てがた",
+      "english": "Bill / Draft",
+      "vietnamese": "Hối phiếu / chứng phiếu"
+    },
+    {
+      "id": 31,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "手形の買取り",
+      "hiragana": "てがたのかいとり",
+      "english": "Purchase / Negotiation of Bill",
+      "vietnamese": "Mua lại (chiết khấu) hối phiếu"
+    },
+    {
+      "id": 32,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "買取銀行",
+      "hiragana": "かいとりぎんこう",
+      "english": "Negotiating Bank",
+      "vietnamese": "Ngân hàng mua hối phiếu"
+    },
+    {
+      "id": 33,
+      "chapter": 1,
+      "section": "trade_basics_lc_shipping_documents",
+      "japanese": "立替払い",
+      "hiragana": "たてかえばらい",
+      "english": "Advance Payment on Behalf",
+      "vietnamese": "Thanh toán ứng trước"
+    },
+    {
+      "id": 34,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "代金支払確約",
+      "hiragana": "だいきんしはらいかくやく",
+      "english": "Undertaking to Pay",
+      "vietnamese": "Cam kết thanh toán tiền hàng"
+    },
+    {
+      "id": 35,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "航空郵便",
+      "hiragana": "こうくうゆうびん",
+      "english": "Airmail",
+      "vietnamese": "Thư tín hàng không"
+    },
+    {
+      "id": 36,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "書類宅配便",
+      "hiragana": "しょるいたくはいびん",
+      "english": "Document Courier Service",
+      "vietnamese": "Chuyển phát nhanh chứng từ"
+    },
+    {
+      "id": 37,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "支払請求",
+      "hiragana": "しはらいせいきゅう",
+      "english": "Demand for Payment",
+      "vietnamese": "Yêu cầu thanh toán"
+    },
+    {
+      "id": 38,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "代金の返却",
+      "hiragana": "だいきんのへんきゃく",
+      "english": "Return of Payment",
+      "vietnamese": "Hoàn trả tiền"
+    },
+    {
+      "id": 39,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "貨物の受取り",
+      "hiragana": "かもつのうけとり",
+      "english": "Receipt of Cargo",
+      "vietnamese": "Nhận hàng"
+    },
+    {
+      "id": 40,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "荷渡指図書",
+      "hiragana": "にわたしさしずしょ",
+      "english": "Delivery Order",
+      "vietnamese": "Lệnh giao hàng"
+    },
+    {
+      "id": 41,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "条件付き支払保証",
+      "hiragana": "じょうけんつきしはらいほしょう",
+      "english": "Conditional Payment Guarantee",
+      "vietnamese": "Bảo lãnh thanh toán có điều kiện"
+    },
+    {
+      "id": 42,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "契約どおりの商品",
+      "hiragana": "けいやくどおりのしょうひん",
+      "english": "Goods as per Contract",
+      "vietnamese": "Hàng hóa đúng hợp đồng"
+    },
+    {
+      "id": 43,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "輸送中の事故",
+      "hiragana": "ゆそうちゅうのじこ",
+      "english": "Accident During Transit",
+      "vietnamese": "Tai nạn trong quá trình vận chuyển"
+    },
+    {
+      "id": 44,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "インボイス",
+      "hiragana": "いんぼいす",
+      "english": "Commercial Invoice",
+      "vietnamese": "Hóa đơn thương mại"
+    },
+    {
+      "id": 45,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "三大船積書類",
+      "hiragana": "さんだいふなづみしょるい",
+      "english": "Three Major Shipping Documents",
+      "vietnamese": "Ba chứng từ xếp hàng chính"
+    },
+    {
+      "id": 46,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "コルレス契約",
+      "hiragana": "こるれすけいやく",
+      "english": "Correspondent Agreement",
+      "vietnamese": "Hợp đồng đại lý ngân hàng"
+    },
+    {
+      "id": 47,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "船積期限",
+      "hiragana": "ふなづみきげん",
+      "english": "Latest Shipment Date",
+      "vietnamese": "Thời hạn xếp hàng"
+    },
+    {
+      "id": 48,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "勘案",
+      "hiragana": "かんあん",
+      "english": "Consideration",
+      "vietnamese": "Cân nhắc / xét đến"
+    },
+    {
+      "id": 49,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "外為法",
+      "hiragana": "がいためほう",
+      "english": "Foreign Exchange Act",
+      "vietnamese": "Luật Ngoại hối"
+    },
+    {
+      "id": 50,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "輸出貿易管理令",
+      "hiragana": "ゆしゅつぼうえきかんりれい",
+      "english": "Export Trade Control Order",
+      "vietnamese": "Nghị định quản lý xuất khẩu"
+    },
+    {
+      "id": 51,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "家畜伝染予防法等の国内法",
+      "hiragana": "かちくでんせんよぼうほうとうのこくないほう",
+      "english": "Domestic Laws such as the Livestock Infectious Disease Prevention Act",
+      "vietnamese": "Các luật trong nước như Luật phòng chống dịch bệnh gia súc"
+    },
+    {
+      "id": 52,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "輸出規制の担当主務官庁",
+      "hiragana": "ゆしゅつきせいのたんとうしゅむかんちょう",
+      "english": "Competent Authority for Export Control",
+      "vietnamese": "Cơ quan chủ quản phụ trách quản lý xuất khẩu"
+    },
+    {
+      "id": 53,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "船積手続",
+      "hiragana": "ふなづみてつづき",
+      "english": "Shipment Procedures",
+      "vietnamese": "Thủ tục xếp hàng"
+    },
+    {
+      "id": 54,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "専門業者",
+      "hiragana": "せんもんぎょうしゃ",
+      "english": "Specialized Operator",
+      "vietnamese": "Đơn vị chuyên môn"
+    },
+    {
+      "id": 55,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "海貨業者",
+      "hiragana": "かいかぎょうしゃ",
+      "english": "Marine Cargo Agent",
+      "vietnamese": "Doanh nghiệp giao nhận đường biển"
+    },
+    {
+      "id": 56,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "コンテナ貨物",
+      "hiragana": "こんてなかもつ",
+      "english": "Container Cargo",
+      "vietnamese": "Hàng container"
+    },
+    {
+      "id": 57,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "ドック・レシート",
+      "hiragana": "どっく・れしーと",
+      "english": "Dock Receipt",
+      "vietnamese": "Phiếu nhận hàng tại cảng"
+    },
+    {
+      "id": 58,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "コンテナターミナル",
+      "hiragana": "こんてなたーみなる",
+      "english": "Container Terminal",
+      "vietnamese": "Bến / ga container"
+    },
+    {
+      "id": 59,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "大口貨物",
+      "hiragana": "おおぐちかもつ",
+      "english": "Large-Lot Cargo",
+      "vietnamese": "Hàng lô lớn"
+    },
+    {
+      "id": 60,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "コンテナ・ヤード",
+      "hiragana": "こんてな・やーど",
+      "english": "Container Yard (CY)",
+      "vietnamese": "Bãi container"
+    },
+    {
+      "id": 61,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "コンテナ・フレート・ステーション",
+      "hiragana": "こんてな・ふれーと・すてーしょん",
+      "english": "Container Freight Station (CFS)",
+      "vietnamese": "Trạm gom / tháo container"
+    },
+    {
+      "id": 62,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "輸出許可書",
+      "hiragana": "ゆしゅつきょかしょ",
+      "english": "Export License",
+      "vietnamese": "Giấy phép xuất khẩu"
+    },
+    {
+      "id": 63,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "先物相場",
+      "hiragana": "さきものそうば",
+      "english": "Futures Price",
+      "vietnamese": "Giá kỳ hạn"
+    },
+    {
+      "id": 64,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "連帯保証",
+      "hiragana": "れんたいほしょう",
+      "english": "Joint and Several Guarantee",
+      "vietnamese": "Bảo lãnh liên đới"
+    },
+    {
+      "id": 65,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "暗号コード",
+      "hiragana": "あんごうこーど",
+      "english": "Cipher Code",
+      "vietnamese": "Mã mật / mã hóa"
+    },
+    {
+      "id": 66,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "直接輸出者",
+      "hiragana": "ちょくせつゆしゅつしゃ",
+      "english": "Direct Exporter",
+      "vietnamese": "Nhà xuất khẩu trực tiếp"
+    },
+    {
+      "id": 67,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "経済産業省",
+      "hiragana": "けいざいさんぎょうしょう",
+      "english": "Ministry of Economy, Trade and Industry",
+      "vietnamese": "Bộ Kinh tế – Công nghiệp"
+    },
+    {
+      "id": 68,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "主務官庁",
+      "hiragana": "しゅむかんちょう",
+      "english": "Competent Authority",
+      "vietnamese": "Cơ quan chủ quản"
+    },
+    {
+      "id": 69,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "海運貨物取扱業者",
+      "hiragana": "かいうんかもつとりあつかいぎょうしゃ",
+      "english": "Ocean Cargo Handling Agent",
+      "vietnamese": "Doanh nghiệp xử lý hàng hóa vận tải biển"
+    },
+    {
+      "id": 70,
+      "chapter": 1,
+      "section": "shipping_regulation_business_models",
+      "japanese": "港湾運送事業法",
+      "hiragana": "こうわんうんそうじぎょうほう",
+      "english": "Port Transportation Business Act",
+      "vietnamese": "Luật kinh doanh vận chuyển cảng"
+    },
+    {
+      "id": 71,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "市場調査",
+      "hiragana": "しじょうちょうさ",
+      "english": "Market Research",
+      "vietnamese": "Nghiên cứu thị trường"
+    },
+    {
+      "id": 72,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "取引先",
+      "hiragana": "とりひきさき",
+      "english": "Business Partner / Client",
+      "vietnamese": "Tìm kiếm đối tác"
+    },
+    {
+      "id": 73,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "取引交渉",
+      "hiragana": "とりひきこうしょう",
+      "english": "Trade Negotiation",
+      "vietnamese": "Đàm phán giao dịch"
+    },
+    {
+      "id": 74,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "信用調査",
+      "hiragana": "しんようちょうさ",
+      "english": "Credit Investigation",
+      "vietnamese": "Điều tra tín dụng"
+    },
+    {
+      "id": 75,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "リストアップ",
+      "hiragana": "りすとあっぷ",
+      "english": "Listing Up",
+      "vietnamese": "Lập danh sách"
+    },
+    {
+      "id": 76,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "絞り込み",
+      "hiragana": "しぼりこみ",
+      "english": "Screening / Narrowing Down",
+      "vietnamese": "Sàng lọc"
+    },
+    {
+      "id": 77,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "市場への適合化",
+      "hiragana": "しじょうへのてきごうか",
+      "english": "Adaptation to Market",
+      "vietnamese": "Thích nghi với thị trường"
+    },
+    {
+      "id": 78,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "医薬品医療機器等法",
+      "hiragana": "いやくひんいりょうききとうほう",
+      "english": "Pharmaceutical and Medical Device Act",
+      "vietnamese": "Luật dược phẩm & thiết bị y tế"
+    },
+    {
+      "id": 79,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "貿易政策",
+      "hiragana": "ぼうえきせいさく",
+      "english": "Trade Policy",
+      "vietnamese": "Chính sách thương mại"
+    },
+    {
+      "id": 80,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "貿易戦略",
+      "hiragana": "ぼうえきせんりゃく",
+      "english": "Trade Strategy",
+      "vietnamese": "Chiến lược thương mại"
+    },
+    {
+      "id": 81,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "一般的情報",
+      "hiragana": "いっぱんてきじょうほう",
+      "english": "General Information",
+      "vietnamese": "Thông tin chung"
+    },
+    {
+      "id": 82,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "商品特有の情報",
+      "hiragana": "しょうひんとくゆうのじょうほう",
+      "english": "Product-Specific Information",
+      "vietnamese": "Thông tin riêng của sản phẩm"
+    },
+    {
+      "id": 83,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "地理",
+      "hiragana": "ちり",
+      "english": "Geography",
+      "vietnamese": "Địa lý"
+    },
+    {
+      "id": 84,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "文化",
+      "hiragana": "ぶんか",
+      "english": "Culture",
+      "vietnamese": "Văn hóa"
+    },
+    {
+      "id": 85,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "社会",
+      "hiragana": "しゃかい",
+      "english": "Society",
+      "vietnamese": "Xã hội"
+    },
+    {
+      "id": 86,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "気候",
+      "hiragana": "きこう",
+      "english": "Climate",
+      "vietnamese": "Khí hậu"
+    },
+    {
+      "id": 87,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "風俗習慣",
+      "hiragana": "ふうぞくしゅうかん",
+      "english": "Customs and Manners",
+      "vietnamese": "Phong tục tập quán"
+    },
+    {
+      "id": 88,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "所得水準",
+      "hiragana": "しょとくすいじゅん",
+      "english": "Income Level",
+      "vietnamese": "Mức thu nhập"
+    },
+    {
+      "id": 89,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "社会構造等",
+      "hiragana": "しゃかいこうぞうとう",
+      "english": "Social Structure, etc.",
+      "vietnamese": "Cơ cấu xã hội"
+    },
+    {
+      "id": 90,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "消費者",
+      "hiragana": "しょうひしゃ",
+      "english": "Consumer",
+      "vietnamese": "Người tiêu dùng"
+    },
+    {
+      "id": 91,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "供給者",
+      "hiragana": "きょうきゅうしゃ",
+      "english": "Supplier",
+      "vietnamese": "Nhà cung cấp"
+    },
+    {
+      "id": 92,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "消費者数",
+      "hiragana": "しょうひしゃすう",
+      "english": "Number of Consumers",
+      "vietnamese": "Số lượng người tiêu dùng"
+    },
+    {
+      "id": 93,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "供給者数",
+      "hiragana": "きょうきゅうしゃすう",
+      "english": "Number of Suppliers",
+      "vietnamese": "Số lượng nhà cung cấp"
+    },
+    {
+      "id": 94,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "購入意欲",
+      "hiragana": "こうにゅういよく",
+      "english": "Purchase Intention",
+      "vietnamese": "Nhu cầu mua"
+    },
+    {
+      "id": 95,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "信頼性等",
+      "hiragana": "しんらいせいとう",
+      "english": "Reliability, etc.",
+      "vietnamese": "Độ tin cậy"
+    },
+    {
+      "id": 96,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "政治",
+      "hiragana": "せいじ",
+      "english": "Politics",
+      "vietnamese": "Chính trị"
+    },
+    {
+      "id": 97,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "政治形態",
+      "hiragana": "せいじけいたい",
+      "english": "Political System",
+      "vietnamese": "Thể chế chính trị"
+    },
+    {
+      "id": 98,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "外国政策",
+      "hiragana": "がいこくせいさく",
+      "english": "Foreign Policy",
+      "vietnamese": "Chính sách đối ngoại"
+    },
+    {
+      "id": 99,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "国民総生産",
+      "hiragana": "こくみんそうせいさん",
+      "english": "Gross National Product",
+      "vietnamese": "Tổng sản phẩm quốc dân"
+    },
+    {
+      "id": 100,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "成長率等",
+      "hiragana": "せいちょうりつとう",
+      "english": "Growth Rate, etc.",
+      "vietnamese": "Tỷ lệ tăng trưởng"
+    },
+    {
+      "id": 101,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "販売方法",
+      "hiragana": "はんばいほうほう",
+      "english": "Sales Method",
+      "vietnamese": "Phương thức bán hàng"
+    },
+    {
+      "id": 102,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "流通機構",
+      "hiragana": "りゅうつうきこう",
+      "english": "Distribution Structure",
+      "vietnamese": "Hệ thống phân phối"
+    },
+    {
+      "id": 103,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "競争力",
+      "hiragana": "きょうそうりょく",
+      "english": "Competitiveness",
+      "vietnamese": "Năng lực cạnh tranh"
+    },
+    {
+      "id": 104,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "宣伝活動等",
+      "hiragana": "せんでんかつどうとう",
+      "english": "Promotional Activities, etc.",
+      "vietnamese": "Hoạt động quảng bá"
+    },
+    {
+      "id": 105,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "法制度",
+      "hiragana": "ほうせいど",
+      "english": "Legal System",
+      "vietnamese": "Hệ thống pháp luật"
+    },
+    {
+      "id": 106,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "条約への加盟調印",
+      "hiragana": "じょうやくへのかめいちょういん",
+      "english": "Accession to / Signature of Treaties",
+      "vietnamese": "Gia nhập & ký điều ước"
+    },
+    {
+      "id": 107,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "貿易関係法",
+      "hiragana": "ぼうえきかんけいほう",
+      "english": "Trade-Related Laws",
+      "vietnamese": "Luật liên quan thương mại"
+    },
+    {
+      "id": 108,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "民法",
+      "hiragana": "みんぽう",
+      "english": "Civil Code",
+      "vietnamese": "Luật dân sự"
+    },
+    {
+      "id": 109,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "商法",
+      "hiragana": "しょうほう",
+      "english": "Commercial Code",
+      "vietnamese": "Luật thương mại"
+    },
+    {
+      "id": 110,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "税法等",
+      "hiragana": "ぜいほうとう",
+      "english": "Tax Laws, etc.",
+      "vietnamese": "Luật thuế"
+    },
+    {
+      "id": 111,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "日本貿易振興機構",
+      "hiragana": "にほんぼうえきしんこうきこう",
+      "english": "JETRO (Japan External Trade Organization)",
+      "vietnamese": "JETRO – Tổ chức xúc tiến thương mại Nhật"
+    },
+    {
+      "id": 112,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "マーケティング・ミックス",
+      "hiragana": "まーけてぃんぐ・みっくす",
+      "english": "Marketing Mix",
+      "vietnamese": "Marketing mix"
+    },
+    {
+      "id": 113,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "商品計画",
+      "hiragana": "しょうひんけいかく",
+      "english": "Product Planning",
+      "vietnamese": "Kế hoạch sản phẩm"
+    },
+    {
+      "id": 114,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "価格設定",
+      "hiragana": "かかくせってい",
+      "english": "Pricing",
+      "vietnamese": "Định giá"
+    },
+    {
+      "id": 115,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "販売促進",
+      "hiragana": "はんばいそくしん",
+      "english": "Sales Promotion",
+      "vietnamese": "Xúc tiến bán hàng"
+    },
+    {
+      "id": 116,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "勧誘",
+      "hiragana": "かんゆう",
+      "english": "Solicitation",
+      "vietnamese": "Chào mời / tiếp thị"
+    },
+    {
+      "id": 117,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "引合い",
+      "hiragana": "ひきあい",
+      "english": "Inquiry",
+      "vietnamese": "Yêu cầu hỏi hàng"
+    },
+    {
+      "id": 118,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "申込み",
+      "hiragana": "もうしこみ",
+      "english": "Offer / Application",
+      "vietnamese": "Đơn đặt hàng / đăng ký mua"
+    },
+    {
+      "id": 119,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "ファーム・オファー",
+      "hiragana": "ふぁーむ・おふぁー",
+      "english": "Firm Offer",
+      "vietnamese": "Chào hàng cố định"
+    },
+    {
+      "id": 120,
+      "chapter": 2,
+      "section": "market_research_sales_contract_practice",
+      "japanese": "ウィーン売買条約",
+      "hiragana": "うぃーんばいばいじょうやく",
+      "english": "Vienna Convention on Contracts for the International Sale of Goods (CISG)",
+      "vietnamese": "Công ước Viên về mua bán hàng hóa quốc tế"
+    },
+    {
+      "id": 121,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "確定申込み",
+      "hiragana": "かくていもうしこみ",
+      "english": "Firm Offer",
+      "vietnamese": "Chào hàng cố định"
+    },
+    {
+      "id": 122,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "自由申込み",
+      "hiragana": "じゆうもうしこみ",
+      "english": "Free Offer",
+      "vietnamese": "Chào hàng tự do"
+    },
+    {
+      "id": 123,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "先売り御免申込み",
+      "hiragana": "さきうりごめんもうしこみ",
+      "english": "Offer Subject to Prior Sale",
+      "vietnamese": "Chào hàng có điều kiện ưu tiên người mua trước"
+    },
+    {
+      "id": 124,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "反対申込み",
+      "hiragana": "はんたいもうしこみ",
+      "english": "Counter Offer",
+      "vietnamese": "Chào hàng đối ứng"
+    },
+    {
+      "id": 125,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "承諾",
+      "hiragana": "しょうだく",
+      "english": "Acceptance",
+      "vietnamese": "Chấp nhận"
+    },
+    {
+      "id": 126,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "注文書",
+      "hiragana": "ちゅうもんしょ",
+      "english": "Purchase Order",
+      "vietnamese": "Đơn đặt hàng"
+    },
+    {
+      "id": 127,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "注文請書",
+      "hiragana": "ちゅうもんうけしょ",
+      "english": "Order Acknowledgement",
+      "vietnamese": "Giấy xác nhận đơn hàng"
+    },
+    {
+      "id": 128,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "売買契約書",
+      "hiragana": "ばいばいけいやくしょ",
+      "english": "Sales Contract",
+      "vietnamese": "Hợp đồng mua bán"
+    },
+    {
+      "id": 129,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "諾成契約",
+      "hiragana": "だくせいけいやく",
+      "english": "Consensual Contract",
+      "vietnamese": "Hợp đồng thỏa thuận"
+    },
+    {
+      "id": 130,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "タイプ条項",
+      "hiragana": "たいぷじょうこう",
+      "english": "Typed Clauses",
+      "vietnamese": "Điều khoản đánh máy"
+    },
+    {
+      "id": 131,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "印刷条項",
+      "hiragana": "いんさつじょうこう",
+      "english": "Printed Clauses",
+      "vietnamese": "Điều khoản in sẵn"
+    },
+    {
+      "id": 132,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "裏面約款",
+      "hiragana": "りめんやっかん",
+      "english": "Reverse-Side Clauses",
+      "vietnamese": "Điều khoản mặt sau hợp đồng"
+    },
+    {
+      "id": 133,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "基本契約",
+      "hiragana": "きほんけいやく",
+      "english": "Basic Agreement",
+      "vietnamese": "Hợp đồng khung / hợp đồng cơ bản"
+    },
+    {
+      "id": 134,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "個別契約",
+      "hiragana": "こべつけいやく",
+      "english": "Individual Contract",
+      "vietnamese": "Hợp đồng riêng lẻ"
+    },
+    {
+      "id": 135,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "代理店契約",
+      "hiragana": "だいりてんけいやく",
+      "english": "Agency Agreement",
+      "vietnamese": "Hợp đồng đại lý"
+    },
+    {
+      "id": 136,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "買付委託契約",
+      "hiragana": "かいつけいたくけいやく",
+      "english": "Purchase Commission Agreement",
+      "vietnamese": "Hợp đồng ủy thác mua hàng"
+    },
+    {
+      "id": 137,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "受託販売契約",
+      "hiragana": "じゅたくはんばいけいやく",
+      "english": "Consignment Sales Agreement",
+      "vietnamese": "Hợp đồng bán hàng ký gửi"
+    },
+    {
+      "id": 138,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "独占販売契約",
+      "hiragana": "どくせんはんばいけいやく",
+      "english": "Sole Distributorship Agreement",
+      "vietnamese": "Hợp đồng phân phối độc quyền"
+    },
+    {
+      "id": 139,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "一般取引条件",
+      "hiragana": "いっぱんとりひきじょうけん",
+      "english": "General Terms and Conditions",
+      "vietnamese": "Điều kiện giao dịch chung"
+    },
+    {
+      "id": 140,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "特殊条件",
+      "hiragana": "とくしゅじょうけん",
+      "english": "Special Conditions",
+      "vietnamese": "Điều kiện đặc biệt"
+    },
+    {
+      "id": 141,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "品質条件",
+      "hiragana": "ひんしつじょうけん",
+      "english": "Quality Terms",
+      "vietnamese": "Điều kiện chất lượng"
+    },
+    {
+      "id": 142,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "数量条件",
+      "hiragana": "すうりょうじょうけん",
+      "english": "Quantity Terms",
+      "vietnamese": "Điều kiện số lượng"
+    },
+    {
+      "id": 143,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "価格条件",
+      "hiragana": "かかくじょうけん",
+      "english": "Price Terms",
+      "vietnamese": "Điều kiện giá cả"
+    },
+    {
+      "id": 144,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "船積条件",
+      "hiragana": "ふなづみじょうけん",
+      "english": "Shipment Terms",
+      "vietnamese": "Điều kiện giao hàng"
+    },
+    {
+      "id": 145,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "支払条件",
+      "hiragana": "しはらいじょうけん",
+      "english": "Payment Terms",
+      "vietnamese": "Điều kiện thanh toán"
+    },
+    {
+      "id": 146,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "保険条件",
+      "hiragana": "ほけんじょうけん",
+      "english": "Insurance Terms",
+      "vietnamese": "Điều kiện bảo hiểm"
+    },
+    {
+      "id": 147,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "梱包条件",
+      "hiragana": "こんぽうじょうけん",
+      "english": "Packing Terms",
+      "vietnamese": "Điều kiện đóng gói"
+    },
+    {
+      "id": 148,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "クレーム条項",
+      "hiragana": "くれーむじょうこう",
+      "english": "Claim Clause",
+      "vietnamese": "Điều khoản khiếu nại"
+    },
+    {
+      "id": 149,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "仲裁条項",
+      "hiragana": "ちゅうさいじょうこう",
+      "english": "Arbitration Clause",
+      "vietnamese": "Điều khoản trọng tài"
+    },
+    {
+      "id": 150,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "不可抗力条項",
+      "hiragana": "ふかこうりょくじょうこう",
+      "english": "Force Majeure Clause",
+      "vietnamese": "Điều khoản bất khả kháng"
+    },
+    {
+      "id": 151,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "準拠法",
+      "hiragana": "じゅんきょほう",
+      "english": "Governing Law",
+      "vietnamese": "Luật áp dụng"
+    },
+    {
+      "id": 152,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "裁判管轄",
+      "hiragana": "さいばんかんかつ",
+      "english": "Jurisdiction",
+      "vietnamese": "Thẩm quyền xét xử"
+    },
+    {
+      "id": 153,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "完全合意条項",
+      "hiragana": "かんぜんごういじょうこう",
+      "english": "Entire Agreement Clause",
+      "vietnamese": "Điều khoản thỏa thuận trọn vẹn"
+    },
+    {
+      "id": 154,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "秘密保持条項",
+      "hiragana": "ひみつほじじょうこう",
+      "english": "Confidentiality Clause",
+      "vietnamese": "Điều khoản bảo mật"
+    },
+    {
+      "id": 155,
+      "chapter": 2,
+      "section": "offer_acceptance_contract_terms",
+      "japanese": "権利義務の譲渡禁止",
+      "hiragana": "けんりぎむのじょうときんし",
+      "english": "Non-Assignment of Rights and Obligations",
+      "vietnamese": "Cấm chuyển nhượng quyền & nghĩa vụ"
+    },
+    {
+      "id": 156,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "3C",
+      "hiragana": "すりーしー",
+      "english": "The 3 C's (Character, Capital, Capacity)",
+      "vietnamese": "3 yếu tố tín dụng (Phẩm chất, Vốn, Năng lực)"
+    },
+    {
+      "id": 157,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "4C",
+      "hiragana": "ふぉーしー",
+      "english": "The 4 C's (Character, Capital, Capacity, Conditions)",
+      "vietnamese": "4 yếu tố tín dụng"
+    },
+    {
+      "id": 158,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "人格",
+      "hiragana": "じんかく",
+      "english": "Character",
+      "vietnamese": "Tính cách / phẩm chất"
+    },
+    {
+      "id": 159,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "資本",
+      "hiragana": "しほん",
+      "english": "Capital",
+      "vietnamese": "Vốn"
+    },
+    {
+      "id": 160,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "能力",
+      "hiragana": "のうりょく",
+      "english": "Capacity",
+      "vietnamese": "Năng lực"
+    },
+    {
+      "id": 161,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "取引状況",
+      "hiragana": "とりひきじょうきょう",
+      "english": "Conditions / Trade Status",
+      "vietnamese": "Tình hình giao dịch"
+    },
+    {
+      "id": 162,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "銀行信用照会先",
+      "hiragana": "ぎんこうしんようしょうかいさき",
+      "english": "Bank Reference",
+      "vietnamese": "Ngân hàng tham chiếu tín dụng"
+    },
+    {
+      "id": 163,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "同業者信用照会先",
+      "hiragana": "どうぎょうしゃしんようしょうかいさき",
+      "english": "Trade Reference",
+      "vietnamese": "Đối tác cùng ngành tham chiếu"
+    },
+    {
+      "id": 164,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "商業興信所",
+      "hiragana": "しょうぎょうこうしんじょ",
+      "english": "Credit Agency",
+      "vietnamese": "Cơ quan điều tra tín dụng"
+    },
+    {
+      "id": 165,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "ダン・レポート",
+      "hiragana": "だん・れぽーと",
+      "english": "D&B Report (Dun & Bradstreet)",
+      "vietnamese": "Báo cáo Dun & Bradstreet"
+    },
+    {
+      "id": 166,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "海外商社名簿",
+      "hiragana": "かいがいしょうしゃめいぼ",
+      "english": "Directory of Overseas Companies",
+      "vietnamese": "Danh bạ doanh nghiệp nước ngoài"
+    },
+    {
+      "id": 167,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "業者名簿",
+      "hiragana": "ぎょうしゃめいぼ",
+      "english": "Business Directory",
+      "vietnamese": "Danh bạ doanh nghiệp"
+    },
+    {
+      "id": 168,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "通商弘報",
+      "hiragana": "つうしょうこうほう",
+      "english": "Trade Bulletin (JETRO)",
+      "vietnamese": "Bản tin thương mại (JETRO)"
+    },
+    {
+      "id": 169,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "専門誌",
+      "hiragana": "せんもんし",
+      "english": "Trade Journal",
+      "vietnamese": "Tạp chí chuyên ngành"
+    },
+    {
+      "id": 170,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "展示会",
+      "hiragana": "てんじかい",
+      "english": "Trade Fair / Exhibition",
+      "vietnamese": "Hội chợ triển lãm"
+    },
+    {
+      "id": 171,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "商談",
+      "hiragana": "しょうだん",
+      "english": "Business Negotiation",
+      "vietnamese": "Đàm phán thương mại"
+    },
+    {
+      "id": 172,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "商工会議所",
+      "hiragana": "しょうこうかいぎしょ",
+      "english": "Chamber of Commerce and Industry",
+      "vietnamese": "Phòng Thương mại và Công nghiệp"
+    },
+    {
+      "id": 173,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "取消可能信用状",
+      "hiragana": "とりけしかのうしんようじょう",
+      "english": "Revocable L/C",
+      "vietnamese": "L/C có thể hủy ngang"
+    },
+    {
+      "id": 174,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "取消不能信用状",
+      "hiragana": "とりけしふのうしんようじょう",
+      "english": "Irrevocable L/C",
+      "vietnamese": "L/C không hủy ngang"
+    },
+    {
+      "id": 175,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "確認信用状",
+      "hiragana": "かくにんしんようじょう",
+      "english": "Confirmed L/C",
+      "vietnamese": "L/C có xác nhận"
+    },
+    {
+      "id": 176,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "無確認信用状",
+      "hiragana": "むかくにんしんようじょう",
+      "english": "Unconfirmed L/C",
+      "vietnamese": "L/C không xác nhận"
+    },
+    {
+      "id": 177,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "譲渡可能信用状",
+      "hiragana": "じょうとかのうしんようじょう",
+      "english": "Transferable L/C",
+      "vietnamese": "L/C có thể chuyển nhượng"
+    },
+    {
+      "id": 178,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "回転信用状",
+      "hiragana": "かいてんしんようじょう",
+      "english": "Revolving L/C",
+      "vietnamese": "L/C tuần hoàn"
+    },
+    {
+      "id": 179,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "買取信用状",
+      "hiragana": "かいとりしんようじょう",
+      "english": "Negotiation L/C",
+      "vietnamese": "L/C chiết khấu"
+    },
+    {
+      "id": 180,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "支払信用状",
+      "hiragana": "しはらいしんようじょう",
+      "english": "Payment L/C",
+      "vietnamese": "L/C thanh toán"
+    },
+    {
+      "id": 181,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "引受信用状",
+      "hiragana": "ひきうけしんようじょう",
+      "english": "Acceptance L/C",
+      "vietnamese": "L/C chấp nhận"
+    },
+    {
+      "id": 182,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "スタンドバイ信用状",
+      "hiragana": "すたんどばいしんようじょう",
+      "english": "Standby L/C",
+      "vietnamese": "L/C dự phòng"
+    },
+    {
+      "id": 183,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "一覧払い",
+      "hiragana": "いちらんばらい",
+      "english": "At Sight",
+      "vietnamese": "Thanh toán ngay khi xuất trình"
+    },
+    {
+      "id": 184,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "期限付き",
+      "hiragana": "きげんつき",
+      "english": "Usance / Term",
+      "vietnamese": "Có kỳ hạn"
+    },
+    {
+      "id": 185,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "前払い",
+      "hiragana": "まえばらい",
+      "english": "Advance Payment",
+      "vietnamese": "Trả trước"
+    },
+    {
+      "id": 186,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "後払い",
+      "hiragana": "あとばらい",
+      "english": "Deferred Payment",
+      "vietnamese": "Trả sau"
+    },
+    {
+      "id": 187,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "分割払い",
+      "hiragana": "ぶんかつばらい",
+      "english": "Installment Payment",
+      "vietnamese": "Trả góp / trả nhiều lần"
+    },
+    {
+      "id": 188,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "送金",
+      "hiragana": "そうきん",
+      "english": "Remittance",
+      "vietnamese": "Chuyển tiền"
+    },
+    {
+      "id": 189,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "電信送金",
+      "hiragana": "でんしんそうきん",
+      "english": "Telegraphic Transfer (T/T)",
+      "vietnamese": "Chuyển tiền bằng điện"
+    },
+    {
+      "id": 190,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "郵便送金",
+      "hiragana": "ゆうびんそうきん",
+      "english": "Mail Transfer (M/T)",
+      "vietnamese": "Chuyển tiền bằng thư"
+    },
+    {
+      "id": 191,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "D/P決済",
+      "hiragana": "でぃー・ぴーけっさい",
+      "english": "Documents against Payment (D/P)",
+      "vietnamese": "Thanh toán đổi chứng từ"
+    },
+    {
+      "id": 192,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "D/A決済",
+      "hiragana": "でぃー・えーけっさい",
+      "english": "Documents against Acceptance (D/A)",
+      "vietnamese": "Chấp nhận đổi chứng từ"
+    },
+    {
+      "id": 193,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "オープン・アカウント",
+      "hiragana": "おーぷん・あかうんと",
+      "english": "Open Account",
+      "vietnamese": "Tài khoản mở (ghi sổ)"
+    },
+    {
+      "id": 194,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "荷為替手形決済",
+      "hiragana": "にかわせてがたけっさい",
+      "english": "Documentary Bill Settlement",
+      "vietnamese": "Thanh toán hối phiếu kèm chứng từ"
+    },
+    {
+      "id": 195,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "国際取引銀行",
+      "hiragana": "こくさいとりひきぎんこう",
+      "english": "International Trade Bank",
+      "vietnamese": "Ngân hàng giao dịch quốc tế"
+    },
+    {
+      "id": 196,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "船積遅延",
+      "hiragana": "ふなづみちえん",
+      "english": "Delay in Shipment",
+      "vietnamese": "Chậm giao / chậm xếp hàng"
+    },
+    {
+      "id": 197,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "分割船積",
+      "hiragana": "ぶんかつふなづみ",
+      "english": "Partial Shipment",
+      "vietnamese": "Giao hàng từng phần"
+    },
+    {
+      "id": 198,
+      "chapter": 2,
+      "section": "credit_investigation_lc_types_payment_methods",
+      "japanese": "積替え",
+      "hiragana": "つみかえ",
+      "english": "Transshipment",
+      "vietnamese": "Chuyển tải"
+    }
+  ],
+  "pending_verification": []
+}

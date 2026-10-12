@@ -1,0 +1,2390 @@
+{
+  "title": "TOEIC – 5 bộ từ vựng (56 + 97 + 45 + 11 + 48)",
+  "summary": {
+    "deck_counts": {
+      "Bộ 56 từ": 56,
+      "Bộ 97 từ": 97,
+      "Bộ 45 từ": 45,
+      "Bộ 11 từ": 11,
+      "Bộ 48 từ": 48
+    },
+    "total_entries": 257,
+    "unique_words": 237,
+    "new_entries_from_6_images": 48,
+    "new_unique_words_from_6_images": 40,
+    "overlaps_with_previous_decks": [
+      "complaint",
+      "remain",
+      "sort",
+      "permit",
+      "carpet",
+      "downtown",
+      "audit",
+      "invoice"
+    ],
+    "repeated_words": {
+      "audit": 2,
+      "auditor": 2,
+      "carpet": 2,
+      "complaint": 2,
+      "crew": 2,
+      "discount": 2,
+      "downtown": 2,
+      "in addition to": 2,
+      "inspector": 2,
+      "invoice": 2,
+      "maintenance": 2,
+      "operation": 2,
+      "packaging": 2,
+      "permit": 2,
+      "remain": 2,
+      "repair": 2,
+      "session": 2,
+      "significantly": 2,
+      "sort": 2,
+      "upgrade": 2
+    },
+    "fifth_deck_group": "TO V"
+  },
+  "note": "Các từ được trích từ 32 ảnh người dùng gửi. Giữ nguyên thứ tự, từ trùng giữa các bộ, và nghĩa theo từng ngữ cảnh. IPA ưu tiên Anh-Anh; IPA US được thêm khi khác biệt. Với permit, bộ 11 từ ghi nghĩa danh từ (giấy phép), bộ TO V ghi nghĩa động từ (cho phép).",
+  "vocabulary": [
+    {
+      "id": "bo56-01",
+      "word": "install",
+      "ipa": "/ɪnˈstɔːl/",
+      "meaning": "lắp đặt",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 1
+    },
+    {
+      "id": "bo56-02",
+      "word": "inspector",
+      "ipa": "/ɪnˈspektə(r)/",
+      "meaning": "thanh tra viên",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 2
+    },
+    {
+      "id": "bo56-03",
+      "word": "recycling",
+      "ipa": "/ˌriːˈsaɪklɪŋ/",
+      "meaning": "việc tái chế",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 3
+    },
+    {
+      "id": "bo56-04",
+      "word": "empty",
+      "ipa": "/ˈempti/",
+      "meaning": "đổ hết ra cho trống",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 4
+    },
+    {
+      "id": "bo56-05",
+      "word": "confirm",
+      "ipa": "/kənˈfɜːm/",
+      "meaning": "xác nhận",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 5
+    },
+    {
+      "id": "bo56-06",
+      "word": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "meaning": "hóa đơn đòi tiền",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 6
+    },
+    {
+      "id": "bo56-07",
+      "word": "auditor",
+      "ipa": "/ˈɔːdɪtə(r)/",
+      "meaning": "kiểm toán viên",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 7
+    },
+    {
+      "id": "bo56-08",
+      "word": "regularly",
+      "ipa": "/ˈreɡjələli/",
+      "meaning": "thường xuyên",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 8
+    },
+    {
+      "id": "bo56-09",
+      "word": "display",
+      "ipa": "/dɪˈspleɪ/",
+      "meaning": "khu trưng bày hàng",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 9
+    },
+    {
+      "id": "bo56-10",
+      "word": "vacuum",
+      "ipa": "/ˈvækjuːm/",
+      "meaning": "hút bụi",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 10
+    },
+    {
+      "id": "bo56-11",
+      "word": "normally",
+      "ipa": "/ˈnɔːməli/",
+      "meaning": "thông thường",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 11
+    },
+    {
+      "id": "bo56-12",
+      "word": "carpet",
+      "ipa": "/ˈkɑːpɪt/",
+      "meaning": "tấm thảm trải sàn",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 12
+    },
+    {
+      "id": "bo56-13",
+      "word": "crew",
+      "ipa": "/kruː/",
+      "meaning": "tổ làm việc",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 13
+    },
+    {
+      "id": "bo56-14",
+      "word": "repair",
+      "ipa": "/rɪˈpeə(r)/",
+      "meaning": "việc sửa chữa",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 14
+    },
+    {
+      "id": "bo56-15",
+      "word": "log",
+      "ipa": "/lɒɡ/",
+      "meaning": "sổ ghi chép",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 15
+    },
+    {
+      "id": "bo56-16",
+      "word": "pricing",
+      "ipa": "/ˈpraɪsɪŋ/",
+      "meaning": "việc định giá",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 16
+    },
+    {
+      "id": "bo56-17",
+      "word": "take effect",
+      "ipa": "/teɪk ɪˈfekt/",
+      "meaning": "có hiệu lực",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 17
+    },
+    {
+      "id": "bo56-18",
+      "word": "shuttle",
+      "ipa": "/ˈʃʌtl/",
+      "meaning": "xe đưa đón",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 18
+    },
+    {
+      "id": "bo56-19",
+      "word": "fasten",
+      "ipa": "/ˈfɑːsn/",
+      "meaning": "thắt chặt; cài chặt",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 19,
+      "note": "Nghĩa không nhìn thấy trong ảnh vì bị che ở cuối màn hình; đã bổ sung nghĩa thông dụng."
+    },
+    {
+      "id": "bo56-20",
+      "word": "securely",
+      "ipa": "/sɪˈkjʊəli/",
+      "meaning": "một cách an toàn",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 20
+    },
+    {
+      "id": "bo56-21",
+      "word": "depart",
+      "ipa": "/dɪˈpɑːt/",
+      "meaning": "khởi hành",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 21
+    },
+    {
+      "id": "bo56-22",
+      "word": "replacement",
+      "ipa": "/rɪˈpleɪsmənt/",
+      "meaning": "sự thay thế",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 22
+    },
+    {
+      "id": "bo56-23",
+      "word": "industrial",
+      "ipa": "/ɪnˈdʌstriəl/",
+      "meaning": "thuộc về công nghiệp",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 23
+    },
+    {
+      "id": "bo56-24",
+      "word": "presentation",
+      "ipa": "/ˌprezənˈteɪʃən/",
+      "meaning": "bài thuyết trình",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 24
+    },
+    {
+      "id": "bo56-25",
+      "word": "upstairs",
+      "ipa": "/ˌʌpˈsteəz/",
+      "meaning": "ở tầng trên",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 25
+    },
+    {
+      "id": "bo56-26",
+      "word": "downstairs",
+      "ipa": "/ˌdaʊnˈsteəz/",
+      "meaning": "dưới tầng",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 26
+    },
+    {
+      "id": "bo56-27",
+      "word": "appear",
+      "ipa": "/əˈpɪə(r)/",
+      "meaning": "ra mắt",
+      "deck": "Bộ 56 từ",
+      "group": "Không thấy nhãn nhóm trong ảnh",
+      "order": 27
+    },
+    {
+      "id": "bo56-28",
+      "word": "judge",
+      "ipa": "/dʒʌdʒ/",
+      "meaning": "giám khảo cuộc thi",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 28
+    },
+    {
+      "id": "bo56-29",
+      "word": "finding",
+      "ipa": "/ˈfaɪndɪŋ/",
+      "meaning": "kết quả nghiên cứu",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 29
+    },
+    {
+      "id": "bo56-30",
+      "word": "present",
+      "ipa": "/prɪˈzent/",
+      "meaning": "trình bày",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 30
+    },
+    {
+      "id": "bo56-31",
+      "word": "financial",
+      "ipa": "/faɪˈnænʃəl/",
+      "meaning": "thuộc về tài chính",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 31
+    },
+    {
+      "id": "bo56-32",
+      "word": "difficulty",
+      "ipa": "/ˈdɪfɪkəlti/",
+      "meaning": "sự khó khăn",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 32
+    },
+    {
+      "id": "bo56-33",
+      "word": "experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "meaning": "gặp phải điều gì đó",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 33
+    },
+    {
+      "id": "bo56-34",
+      "word": "reduce",
+      "ipa": "/rɪˈdjuːs/",
+      "meaning": "giảm",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 34
+    },
+    {
+      "id": "bo56-35",
+      "word": "engagement",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "meaning": "sự tương tác, sự gắn kết, cuộc hẹn",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 35
+    },
+    {
+      "id": "bo56-36",
+      "word": "considerably",
+      "ipa": "/kənˈsɪdərəbli/",
+      "meaning": "một cách đáng kể",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 36
+    },
+    {
+      "id": "bo56-37",
+      "word": "groundbreaking",
+      "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+      "meaning": "mang tính đột phá",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 37
+    },
+    {
+      "id": "bo56-38",
+      "word": "significantly",
+      "ipa": "/sɪɡˈnɪfɪkəntli/",
+      "meaning": "một cách đáng kể",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 38
+    },
+    {
+      "id": "bo56-39",
+      "word": "shipment",
+      "ipa": "/ˈʃɪpmənt/",
+      "meaning": "lô hàng",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 39
+    },
+    {
+      "id": "bo56-40",
+      "word": "steadily",
+      "ipa": "/ˈstedɪli/",
+      "meaning": "một cách đều đặn",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 40
+    },
+    {
+      "id": "bo56-41",
+      "word": "wage",
+      "ipa": "/weɪdʒ/",
+      "meaning": "tiền lương",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 41
+    },
+    {
+      "id": "bo56-42",
+      "word": "brochure",
+      "ipa": "/ˈbrəʊʃə(r)/",
+      "meaning": "tờ rơi giới thiệu",
+      "deck": "Bộ 56 từ",
+      "group": "Thì hiện tại hoàn thành",
+      "order": 42
+    },
+    {
+      "id": "bo56-43",
+      "word": "straight",
+      "ipa": "/streɪt/",
+      "meaning": "liên tiếp",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 43
+    },
+    {
+      "id": "bo56-44",
+      "word": "questionnaire",
+      "ipa": "/ˌkwestʃəˈneə(r)/",
+      "meaning": "bảng câu hỏi khảo sát",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 44
+    },
+    {
+      "id": "bo56-45",
+      "word": "sort",
+      "ipa": "/sɔːt/",
+      "meaning": "sắp xếp",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 45
+    },
+    {
+      "id": "bo56-46",
+      "word": "acquire",
+      "ipa": "/əˈkwaɪə(r)/",
+      "meaning": "mua lại",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 46
+    },
+    {
+      "id": "bo56-47",
+      "word": "realize",
+      "ipa": "/ˈrɪəlaɪz/",
+      "meaning": "nhận ra",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 47
+    },
+    {
+      "id": "bo56-48",
+      "word": "dispute",
+      "ipa": "/dɪˈspjuːt/",
+      "meaning": "vụ tranh chấp",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 48
+    },
+    {
+      "id": "bo56-49",
+      "word": "committee",
+      "ipa": "/kəˈmɪti/",
+      "meaning": "ủy ban",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 49
+    },
+    {
+      "id": "bo56-50",
+      "word": "concern",
+      "ipa": "/kənˈsɜːn/",
+      "meaning": "mối lo ngại",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 50
+    },
+    {
+      "id": "bo56-51",
+      "word": "navigation",
+      "ipa": "/ˌnævɪˈɡeɪʃən/",
+      "meaning": "việc điều hướng",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 51
+    },
+    {
+      "id": "bo56-52",
+      "word": "apologize",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "meaning": "xin lỗi",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 52
+    },
+    {
+      "id": "bo56-53",
+      "word": "receptionist",
+      "ipa": "/rɪˈsepʃənɪst/",
+      "meaning": "nhân viên lễ tân",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 53
+    },
+    {
+      "id": "bo56-54",
+      "word": "storm",
+      "ipa": "/stɔːm/",
+      "meaning": "cơn bão",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 54
+    },
+    {
+      "id": "bo56-55",
+      "word": "boiler",
+      "ipa": "/ˈbɔɪlə(r)/",
+      "meaning": "nồi hơi",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 55
+    },
+    {
+      "id": "bo56-56",
+      "word": "inspector",
+      "ipa": "/ɪnˈspektə(r)/",
+      "meaning": "thanh tra viên",
+      "deck": "Bộ 56 từ",
+      "group": "Thì quá khứ hoàn thành",
+      "order": 56
+    },
+    {
+      "id": "bo97-01",
+      "word": "restock",
+      "ipa": "/ˌriːˈstɒk/",
+      "meaning": "bổ sung hàng",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 1
+    },
+    {
+      "id": "bo97-02",
+      "word": "payroll",
+      "ipa": "/ˈpeɪrəʊl/",
+      "meaning": "bảng lương",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 2
+    },
+    {
+      "id": "bo97-03",
+      "word": "submit",
+      "ipa": "/səbˈmɪt/",
+      "meaning": "nộp",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 3
+    },
+    {
+      "id": "bo97-04",
+      "word": "expire",
+      "ipa": "/ɪkˈspaɪə(r)/",
+      "meaning": "hết hạn",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 4
+    },
+    {
+      "id": "bo97-05",
+      "word": "renew",
+      "ipa": "/rɪˈnjuː/",
+      "meaning": "gia hạn",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 5
+    },
+    {
+      "id": "bo97-06",
+      "word": "contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "hợp đồng",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 6
+    },
+    {
+      "id": "bo97-07",
+      "word": "reserve",
+      "ipa": "/rɪˈzɜːv/",
+      "meaning": "đặt trước",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 7
+    },
+    {
+      "id": "bo97-08",
+      "word": "conference",
+      "ipa": "/ˈkɒnfərəns/",
+      "meaning": "hội nghị",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 8
+    },
+    {
+      "id": "bo97-09",
+      "word": "briefing",
+      "ipa": "/ˈbriːfɪŋ/",
+      "meaning": "buổi phổ biến thông tin ngắn",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 9
+    },
+    {
+      "id": "bo97-10",
+      "word": "expense",
+      "ipa": "/ɪkˈspens/",
+      "meaning": "khoản chi phí",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 10
+    },
+    {
+      "id": "bo97-11",
+      "word": "several",
+      "ipa": "/ˈsevrəl/",
+      "meaning": "một vài",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 11
+    },
+    {
+      "id": "bo97-12",
+      "word": "hire",
+      "ipa": "/haɪə(r)/",
+      "meaning": "nhân viên mới được tuyển",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 12,
+      "note": "Trong ảnh dùng nghĩa “nhân viên mới được tuyển” (thường là “new hire”); “hire” đứng riêng thường nghĩa là tuyển dụng/thuê."
+    },
+    {
+      "id": "bo97-13",
+      "word": "reach",
+      "ipa": "/riːtʃ/",
+      "meaning": "đi đến",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 13
+    },
+    {
+      "id": "bo97-14",
+      "word": "consultant",
+      "ipa": "/kənˈsʌltənt/",
+      "meaning": "chuyên gia tư vấn",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 14
+    },
+    {
+      "id": "bo97-15",
+      "word": "conclusion",
+      "ipa": "/kənˈkluːʒən/",
+      "meaning": "kết luận",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 15
+    },
+    {
+      "id": "bo97-16",
+      "word": "prepare",
+      "ipa": "/prɪˈpeə(r)/",
+      "meaning": "pha chế",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 16,
+      "note": "Trong ảnh ghi “pha chế”; nghĩa phổ biến của “prepare” là chuẩn bị."
+    },
+    {
+      "id": "bo97-17",
+      "word": "criteria",
+      "ipa": "/kraɪˈtɪəriə/",
+      "meaning": "tiêu chí",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 17
+    },
+    {
+      "id": "bo97-18",
+      "word": "vendor",
+      "ipa": "/ˈvendə(r)/",
+      "meaning": "nhà cung cấp",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 18
+    },
+    {
+      "id": "bo97-19",
+      "word": "proposal",
+      "ipa": "/prəˈpəʊzəl/",
+      "meaning": "bản đề xuất",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 19
+    },
+    {
+      "id": "bo97-20",
+      "word": "clearly",
+      "ipa": "/ˈklɪəli/",
+      "meaning": "một cách rõ ràng",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 20
+    },
+    {
+      "id": "bo97-21",
+      "word": "criterion",
+      "ipa": "/kraɪˈtɪəriən/",
+      "meaning": "tiêu chí",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 21
+    },
+    {
+      "id": "bo97-22",
+      "word": "clerk",
+      "ipa": "/klɑːk/",
+      "meaning": "nhân viên bán hàng",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 22
+    },
+    {
+      "id": "bo97-23",
+      "word": "steady",
+      "ipa": "/ˈstedi/",
+      "meaning": "ổn định",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 23
+    },
+    {
+      "id": "bo97-24",
+      "word": "headquarters",
+      "ipa": "/ˌhedˈkwɔːtəz/",
+      "meaning": "trụ sở chính",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 24
+    },
+    {
+      "id": "bo97-25",
+      "word": "progress",
+      "ipa": "/ˈprəʊɡres/",
+      "meaning": "tiến độ",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 25
+    },
+    {
+      "id": "bo97-26",
+      "word": "double-sided",
+      "ipa": "/ˌdʌbl ˈsaɪdɪd/",
+      "meaning": "hai mặt",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 26
+    },
+    {
+      "id": "bo97-27",
+      "word": "default",
+      "ipa": "/dɪˈfɔːlt/",
+      "meaning": "thiết lập mặc định",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 27
+    },
+    {
+      "id": "bo97-28",
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "biên lai",
+      "deck": "Bộ 97 từ",
+      "group": "Chủ ngữ số nhiều",
+      "order": 28
+    },
+    {
+      "id": "bo97-29",
+      "word": "colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "meaning": "đồng nghiệp",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 29
+    },
+    {
+      "id": "bo97-30",
+      "word": "seriously",
+      "ipa": "/ˈsɪəriəsli/",
+      "meaning": "một cách nghiêm túc",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 30
+    },
+    {
+      "id": "bo97-31",
+      "word": "earnestly",
+      "ipa": "/ˈɜːnɪstli/",
+      "meaning": "tha thiết",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 31,
+      "note": "Ảnh không hiển thị phiên âm, đã bổ sung phiên âm thông dụng."
+    },
+    {
+      "id": "bo97-32",
+      "word": "supplier",
+      "ipa": "/səˈplaɪə(r)/",
+      "meaning": "nhà cung cấp",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 32
+    },
+    {
+      "id": "bo97-33",
+      "word": "booth",
+      "ipa": "/buːθ/",
+      "meaning": "gian hàng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 33
+    },
+    {
+      "id": "bo97-34",
+      "word": "trade",
+      "ipa": "/treɪd/",
+      "meaning": "thương mại",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 34
+    },
+    {
+      "id": "bo97-35",
+      "word": "director",
+      "ipa": "/dəˈrektə(r)/",
+      "meaning": "giám đốc",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 35
+    },
+    {
+      "id": "bo97-36",
+      "word": "flexibility",
+      "ipa": "/ˌfleksəˈbɪləti/",
+      "meaning": "sự linh hoạt",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 36
+    },
+    {
+      "id": "bo97-37",
+      "word": "extended",
+      "ipa": "/ɪkˈstendɪd/",
+      "meaning": "kéo dài hơn bình thường",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 37
+    },
+    {
+      "id": "bo97-38",
+      "word": "renovation",
+      "ipa": "/ˌrenəˈveɪʃn/",
+      "meaning": "việc cải tạo",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 38
+    },
+    {
+      "id": "bo97-39",
+      "word": "crew",
+      "ipa": "/kruː/",
+      "meaning": "tổ làm việc",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 39
+    },
+    {
+      "id": "bo97-40",
+      "word": "newsletter",
+      "ipa": "/ˈnjuːzletə(r)/",
+      "meaning": "bản tin",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 40
+    },
+    {
+      "id": "bo97-41",
+      "word": "shareholder",
+      "ipa": "/ˈʃeəhəʊldə(r)/",
+      "meaning": "cổ đông",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 41
+    },
+    {
+      "id": "bo97-42",
+      "word": "annual",
+      "ipa": "/ˈænjuəl/",
+      "meaning": "hằng năm",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 42
+    },
+    {
+      "id": "bo97-43",
+      "word": "contribution",
+      "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+      "meaning": "sự đóng góp",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 43
+    },
+    {
+      "id": "bo97-44",
+      "word": "widely",
+      "ipa": "/ˈwaɪdli/",
+      "meaning": "rộng rãi",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 44
+    },
+    {
+      "id": "bo97-45",
+      "word": "recognize",
+      "ipa": "/ˈrekəɡnaɪz/",
+      "meaning": "ghi nhận",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 45
+    },
+    {
+      "id": "bo97-46",
+      "word": "exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "meaning": "vượt quá",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 46
+    },
+    {
+      "id": "bo97-47",
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 47
+    },
+    {
+      "id": "bo97-48",
+      "word": "accompany",
+      "ipa": "/əˈkʌmpəni/",
+      "meaning": "đi cùng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 48
+    },
+    {
+      "id": "bo97-49",
+      "word": "site",
+      "ipa": "/saɪt/",
+      "meaning": "địa điểm",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 49
+    },
+    {
+      "id": "bo97-50",
+      "word": "van",
+      "ipa": "/væn/",
+      "meaning": "xe tải nhỏ",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 50
+    },
+    {
+      "id": "bo97-51",
+      "word": "legal",
+      "ipa": "/ˈliːɡl/",
+      "meaning": "thuộc về pháp lý",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 51
+    },
+    {
+      "id": "bo97-52",
+      "word": "finance",
+      "ipa": "/ˈfaɪnæns/",
+      "meaning": "tài chính",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 52
+    },
+    {
+      "id": "bo97-53",
+      "word": "remain",
+      "ipa": "/rɪˈmeɪn/",
+      "meaning": "vẫn giữ nguyên",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 53
+    },
+    {
+      "id": "bo97-54",
+      "word": "contain",
+      "ipa": "/kənˈteɪn/",
+      "meaning": "chứa bên trong",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 54
+    },
+    {
+      "id": "bo97-55",
+      "word": "coordinator",
+      "ipa": "/kəʊˈɔːdɪneɪtə(r)/",
+      "meaning": "điều phối viên",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 55
+    },
+    {
+      "id": "bo97-56",
+      "word": "applicant",
+      "ipa": "/ˈæplɪkənt/",
+      "meaning": "ứng viên",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 56
+    },
+    {
+      "id": "bo97-57",
+      "word": "directly",
+      "ipa": "/dəˈrektli/",
+      "meaning": "một cách trực tiếp",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 57
+    },
+    {
+      "id": "bo97-58",
+      "word": "hiring",
+      "ipa": "/ˈhaɪərɪŋ/",
+      "meaning": "việc tuyển dụng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 58
+    },
+    {
+      "id": "bo97-59",
+      "word": "restricted",
+      "ipa": "/rɪˈstrɪktɪd/",
+      "meaning": "bị hạn chế",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 59
+    },
+    {
+      "id": "bo97-60",
+      "word": "badge",
+      "ipa": "/bædʒ/",
+      "meaning": "thẻ tên",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 60
+    },
+    {
+      "id": "bo97-61",
+      "word": "in addition to",
+      "ipa": "/ɪn əˈdɪʃn tuː/",
+      "meaning": "bên cạnh",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 61
+    },
+    {
+      "id": "bo97-62",
+      "word": "toll-free",
+      "ipa": "/ˌtəʊl ˈfriː/",
+      "meaning": "miễn cước cuộc gọi",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 62
+    },
+    {
+      "id": "bo97-63",
+      "word": "warranty",
+      "ipa": "/ˈwɒrənti/",
+      "meaning": "chế độ bảo hành",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 63
+    },
+    {
+      "id": "bo97-64",
+      "word": "repair",
+      "ipa": "/rɪˈpeə(r)/",
+      "meaning": "việc sửa chữa",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 64
+    },
+    {
+      "id": "bo97-65",
+      "word": "effective",
+      "ipa": "/ɪˈfektɪv/",
+      "meaning": "hiệu quả",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 65
+    },
+    {
+      "id": "bo97-66",
+      "word": "keynote",
+      "ipa": "/ˈkiːnəʊt/",
+      "meaning": "bài phát biểu chính",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 66
+    },
+    {
+      "id": "bo97-67",
+      "word": "session",
+      "ipa": "/ˈseʃn/",
+      "meaning": "buổi",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 67
+    },
+    {
+      "id": "bo97-68",
+      "word": "speaker",
+      "ipa": "/ˈspiːkə(r)/",
+      "meaning": "diễn giả",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 68
+    },
+    {
+      "id": "bo97-69",
+      "word": "purchasing",
+      "ipa": "/ˈpɜːtʃəsɪŋ/",
+      "meaning": "việc thu mua",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 69
+    },
+    {
+      "id": "bo97-70",
+      "word": "warehouse",
+      "ipa": "/ˈweəhaʊs/",
+      "meaning": "nhà kho",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 70
+    },
+    {
+      "id": "bo97-71",
+      "word": "oversee",
+      "ipa": "/ˌəʊvəˈsiː/",
+      "meaning": "giám sát",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 71
+    },
+    {
+      "id": "bo97-72",
+      "word": "packaging",
+      "ipa": "/ˈpækɪdʒɪŋ/",
+      "meaning": "bao bì",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 72
+    },
+    {
+      "id": "bo97-73",
+      "word": "reasonable",
+      "ipa": "/ˈriːznəbl/",
+      "meaning": "hợp lý",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 73
+    },
+    {
+      "id": "bo97-74",
+      "word": "satisfaction",
+      "ipa": "/ˌsætɪsˈfækʃn/",
+      "meaning": "sự hài lòng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 74
+    },
+    {
+      "id": "bo97-75",
+      "word": "initiative",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "meaning": "sáng kiến",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 75
+    },
+    {
+      "id": "bo97-76",
+      "word": "primary",
+      "ipa": "/ˈpraɪməri/",
+      "meaning": "chính",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 76
+    },
+    {
+      "id": "bo97-77",
+      "word": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "meaning": "cải thiện",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 77
+    },
+    {
+      "id": "bo97-78",
+      "word": "cartridge",
+      "ipa": "/ˈkɑːtrɪdʒ/",
+      "meaning": "hộp mực",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 78
+    },
+    {
+      "id": "bo97-79",
+      "word": "toner",
+      "ipa": "/ˈtəʊnə(r)/",
+      "meaning": "mực in",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 79
+    },
+    {
+      "id": "bo97-80",
+      "word": "supply",
+      "ipa": "/səˈplaɪ/",
+      "meaning": "vật tư",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 80
+    },
+    {
+      "id": "bo97-81",
+      "word": "closet",
+      "ipa": "/ˈklɒzɪt/",
+      "meaning": "tủ âm tường",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 81
+    },
+    {
+      "id": "bo97-82",
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaning": "đáng tin cậy",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 82
+    },
+    {
+      "id": "bo97-83",
+      "word": "significantly",
+      "ipa": "/sɪɡˈnɪfɪkəntli/",
+      "meaning": "một cách đáng kể",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 83
+    },
+    {
+      "id": "bo97-84",
+      "word": "quality",
+      "ipa": "/ˈkwɒləti/",
+      "meaning": "phẩm chất, đặc điểm nổi bật; chất lượng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 84
+    },
+    {
+      "id": "bo97-85",
+      "word": "noticeably",
+      "ipa": "/ˈnəʊtɪsəbli/",
+      "meaning": "một cách rõ rệt",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 85
+    },
+    {
+      "id": "bo97-86",
+      "word": "upgrade",
+      "ipa": "/ˌʌpˈɡreɪd/",
+      "meaning": "nâng cấp",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 86
+    },
+    {
+      "id": "bo97-87",
+      "word": "fair",
+      "ipa": "/feə(r)/",
+      "meaning": "hội chợ",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 87
+    },
+    {
+      "id": "bo97-88",
+      "word": "auditor",
+      "ipa": "/ˈɔːdɪtə(r)/",
+      "meaning": "kiểm toán viên",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 88
+    },
+    {
+      "id": "bo97-89",
+      "word": "indicate",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "meaning": "cho thấy điều gì",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 89
+    },
+    {
+      "id": "bo97-90",
+      "word": "consumer",
+      "ipa": "/kənˈsjuːmə(r)/",
+      "meaning": "người tiêu dùng",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 90
+    },
+    {
+      "id": "bo97-91",
+      "word": "operation",
+      "ipa": "/ˌɒpəˈreɪʃn/",
+      "meaning": "hoạt động kinh doanh",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 91
+    },
+    {
+      "id": "bo97-92",
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning": "mức giảm giá",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 92
+    },
+    {
+      "id": "bo97-93",
+      "word": "installation",
+      "ipa": "/ˌɪnstəˈleɪʃn/",
+      "meaning": "việc lắp đặt",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 93
+    },
+    {
+      "id": "bo97-94",
+      "word": "downtown",
+      "ipa": "/ˌdaʊnˈtaʊn/",
+      "meaning": "thuộc khu trung tâm thành phố",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 94
+    },
+    {
+      "id": "bo97-95",
+      "word": "assign",
+      "ipa": "/əˈsaɪn/",
+      "meaning": "phân công",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 95
+    },
+    {
+      "id": "bo97-96",
+      "word": "courier",
+      "ipa": "/ˈkʊriə(r)/",
+      "meaning": "dịch vụ chuyển phát nhanh",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 96
+    },
+    {
+      "id": "bo97-97",
+      "word": "signature",
+      "ipa": "/ˈsɪɡnətʃə(r)/",
+      "meaning": "chữ ký",
+      "deck": "Bộ 97 từ",
+      "group": "Cụm xen giữa chủ ngữ và động từ",
+      "order": 97
+    },
+    {
+      "id": "bo45-01",
+      "word": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "meaning": "đàm phán",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 1
+    },
+    {
+      "id": "bo45-02",
+      "word": "verify",
+      "ipa": "/ˈverɪfaɪ/",
+      "meaning": "xác minh",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 2
+    },
+    {
+      "id": "bo45-03",
+      "word": "monitor",
+      "ipa": "/ˈmɒnɪtə(r)/",
+      "meaning": "theo dõi",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 3
+    },
+    {
+      "id": "bo45-04",
+      "word": "notice",
+      "ipa": "/ˈnəʊtɪs/",
+      "meaning": "nhận thấy",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 4
+    },
+    {
+      "id": "bo45-05",
+      "word": "recruit",
+      "ipa": "/rɪˈkruːt/",
+      "meaning": "tuyển dụng",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 5
+    },
+    {
+      "id": "bo45-06",
+      "word": "qualified",
+      "ipa": "/ˈkwɒlɪfaɪd/",
+      "meaning": "đủ trình độ",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 6
+    },
+    {
+      "id": "bo45-07",
+      "word": "experienced",
+      "ipa": "/ɪkˈspɪəriənst/",
+      "meaning": "có kinh nghiệm",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 7
+    },
+    {
+      "id": "bo45-08",
+      "word": "recruiter",
+      "ipa": "/rɪˈkruːtə(r)/",
+      "meaning": "nhà tuyển dụng",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 8
+    },
+    {
+      "id": "bo45-09",
+      "word": "expect",
+      "ipa": "/ɪkˈspekt/",
+      "meaning": "dự kiến",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 9
+    },
+    {
+      "id": "bo45-10",
+      "word": "prove",
+      "ipa": "/pruːv/",
+      "meaning": "tỏ ra",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 10
+    },
+    {
+      "id": "bo45-11",
+      "word": "packaging",
+      "ipa": "/ˈpækɪdʒɪŋ/",
+      "meaning": "bao bì",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 11
+    },
+    {
+      "id": "bo45-12",
+      "word": "operation",
+      "ipa": "/ˌɒpəˈreɪʃn/",
+      "meaning": "hoạt động kinh doanh",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 12
+    },
+    {
+      "id": "bo45-13",
+      "word": "maintain",
+      "ipa": "/meɪnˈteɪn/",
+      "meaning": "duy trì",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 13
+    },
+    {
+      "id": "bo45-14",
+      "word": "breakdown",
+      "ipa": "/ˈbreɪkdaʊn/",
+      "meaning": "sự hỏng hóc",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 14
+    },
+    {
+      "id": "bo45-15",
+      "word": "properly",
+      "ipa": "/ˈprɒpəli/",
+      "meaning": "đúng cách",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 15
+    },
+    {
+      "id": "bo45-16",
+      "word": "harbor",
+      "ipa": "/ˈhɑːbə(r)/",
+      "meaning": "bến cảng",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 16
+    },
+    {
+      "id": "bo45-17",
+      "word": "a great deal",
+      "ipa": "/ə ɡreɪt diːl/",
+      "meaning": "rất nhiều",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 17
+    },
+    {
+      "id": "bo45-18",
+      "word": "district",
+      "ipa": "/ˈdɪstrɪkt/",
+      "meaning": "khu vực trong thành phố",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 18
+    },
+    {
+      "id": "bo45-19",
+      "word": "relocate",
+      "ipa": "/ˌriːləʊˈkeɪt/",
+      "meaning": "di dời",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 19
+    },
+    {
+      "id": "bo45-20",
+      "word": "advertise",
+      "ipa": "/ˈædvətaɪz/",
+      "meaning": "quảng cáo",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 20
+    },
+    {
+      "id": "bo45-21",
+      "word": "sedan",
+      "ipa": "/sɪˈdæn/",
+      "meaning": "xe ô tô con",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 21
+    },
+    {
+      "id": "bo45-22",
+      "word": "upgrade",
+      "ipa": "/ˌʌpˈɡreɪd/",
+      "meaning": "nâng cấp",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 22
+    },
+    {
+      "id": "bo45-23",
+      "word": "network",
+      "ipa": "/ˈnetwɜːk/",
+      "meaning": "mạng máy tính",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 23
+    },
+    {
+      "id": "bo45-24",
+      "word": "southern",
+      "ipa": "/ˈsʌðən/",
+      "meaning": "ở phía nam",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 24
+    },
+    {
+      "id": "bo45-25",
+      "word": "respond",
+      "ipa": "/rɪˈspɒnd/",
+      "meaning": "phản hồi",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 25
+    },
+    {
+      "id": "bo45-26",
+      "word": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "meaning": "lời phàn nàn",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing làm chủ ngữ",
+      "order": 26
+    },
+    {
+      "id": "bo45-27",
+      "word": "valid",
+      "ipa": "/ˈvælɪd/",
+      "meaning": "hợp lệ",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 27
+    },
+    {
+      "id": "bo45-28",
+      "word": "certificate",
+      "ipa": "/səˈtɪfɪkət/",
+      "meaning": "giấy chứng nhận",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 28
+    },
+    {
+      "id": "bo45-29",
+      "word": "in addition to",
+      "ipa": "/ɪn əˈdɪʃn tuː/",
+      "meaning": "ngoài ra còn",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 29
+    },
+    {
+      "id": "bo45-30",
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning": "mức giảm giá",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 30
+    },
+    {
+      "id": "bo45-31",
+      "word": "purchase",
+      "ipa": "/ˈpɜːtʃəs/",
+      "meaning": "việc mua hàng",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 31
+    },
+    {
+      "id": "bo45-32",
+      "word": "waste",
+      "ipa": "/weɪst/",
+      "meaning": "rác thải",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 32
+    },
+    {
+      "id": "bo45-33",
+      "word": "fuel",
+      "ipa": "/ˈfjuːəl/",
+      "meaning": "nhiên liệu",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 33
+    },
+    {
+      "id": "bo45-34",
+      "word": "interruption",
+      "ipa": "/ˌɪntəˈrʌpʃn/",
+      "meaning": "sự gián đoạn",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 34
+    },
+    {
+      "id": "bo45-35",
+      "word": "advance",
+      "ipa": "/ədˈvɑːns/",
+      "meaning": "sự làm trước thời hạn",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 35
+    },
+    {
+      "id": "bo45-36",
+      "word": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaning": "việc bảo trì",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 36
+    },
+    {
+      "id": "bo45-37",
+      "word": "term",
+      "ipa": "/tɜːm/",
+      "meaning": "điều khoản",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 37
+    },
+    {
+      "id": "bo45-38",
+      "word": "prior to",
+      "ipa": "/ˈpraɪə(r) tuː/",
+      "meaning": "trước khi",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 38
+    },
+    {
+      "id": "bo45-39",
+      "word": "fill out",
+      "ipa": "/fɪl aʊt/",
+      "meaning": "điền vào",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 39
+    },
+    {
+      "id": "bo45-40",
+      "word": "intranet",
+      "ipa": "/ˈɪntrənet/",
+      "meaning": "mạng nội bộ",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 40
+    },
+    {
+      "id": "bo45-41",
+      "word": "additional",
+      "ipa": "/əˈdɪʃənl/",
+      "meaning": "bổ sung",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 41
+    },
+    {
+      "id": "bo45-42",
+      "word": "temporary",
+      "ipa": "/ˈtemprəri/",
+      "meaning": "tạm thời",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 42
+    },
+    {
+      "id": "bo45-43",
+      "word": "current",
+      "ipa": "/ˈkʌrənt/",
+      "meaning": "hiện hành",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 43
+    },
+    {
+      "id": "bo45-44",
+      "word": "audit",
+      "ipa": "/ˈɔːdɪt/",
+      "meaning": "cuộc kiểm toán",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 44
+    },
+    {
+      "id": "bo45-45",
+      "word": "entire",
+      "ipa": "/ɪnˈtaɪə(r)/",
+      "meaning": "toàn bộ",
+      "deck": "Bộ 45 từ",
+      "group": "V-ing sau giới từ",
+      "order": 45,
+      "note": "Ảnh cuối chỉ hiển thị từ entire và một phần phiên âm; nghĩa và IPA được bổ sung theo từ điển thông dụng."
+    },
+    {
+      "id": "bo11-01",
+      "word": "attached",
+      "ipa": "/əˈtætʃt/",
+      "meaning": "được đính kèm",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 1
+    },
+    {
+      "id": "bo11-02",
+      "word": "immediately",
+      "ipa": "/ɪˈmiːdiətli/",
+      "meaning": "ngay lập tức",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 2
+    },
+    {
+      "id": "bo11-03",
+      "word": "proper",
+      "ipa": "/ˈprɒpə(r)/",
+      "meaning": "thích hợp",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 3,
+      "ipa_us": "/ˈprɑːpər/"
+    },
+    {
+      "id": "bo11-04",
+      "word": "proceed",
+      "ipa": "/prəˈsiːd/",
+      "meaning": "đi tới; tiếp tục",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 4,
+      "ipa_us": "/proʊˈsiːd/"
+    },
+    {
+      "id": "bo11-05",
+      "word": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaning": "việc bảo trì",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 5
+    },
+    {
+      "id": "bo11-06",
+      "word": "operate",
+      "ipa": "/ˈɒpəreɪt/",
+      "meaning": "vận hành",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 6,
+      "ipa_us": "/ˈɑːpəreɪt/"
+    },
+    {
+      "id": "bo11-07",
+      "word": "inspect",
+      "ipa": "/ɪnˈspekt/",
+      "meaning": "kiểm tra kỹ lưỡng",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 7
+    },
+    {
+      "id": "bo11-08",
+      "word": "accounting",
+      "ipa": "/əˈkaʊntɪŋ/",
+      "meaning": "công việc kế toán",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 8
+    },
+    {
+      "id": "bo11-09",
+      "word": "orientation",
+      "ipa": "/ˌɔːriənˈteɪʃn/",
+      "meaning": "buổi định hướng cho người mới",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 9
+    },
+    {
+      "id": "bo11-10",
+      "word": "session",
+      "ipa": "/ˈseʃn/",
+      "meaning": "buổi",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 10
+    },
+    {
+      "id": "bo11-11",
+      "word": "permit",
+      "ipa": "/ˈpɜːmɪt/",
+      "meaning": "giấy phép",
+      "deck": "Bộ 11 từ",
+      "group": "Không hiển thị tiêu đề nhóm trong ảnh",
+      "order": 11,
+      "ipa_us": "/ˈpɝːmɪt/"
+    },
+    {
+      "id": "bo48-01",
+      "word": "quote",
+      "ipa": "/kwəʊt/",
+      "meaning": "bản báo giá",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 1,
+      "ipa_us": "/kwoʊt/"
+    },
+    {
+      "id": "bo48-02",
+      "word": "opportunity",
+      "ipa": "/ˌɒpəˈtjuːnəti/",
+      "meaning": "cơ hội",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 2,
+      "ipa_us": "/ˌɑːpərˈtuːnəti/"
+    },
+    {
+      "id": "bo48-03",
+      "word": "well-known",
+      "ipa": "/ˌwel ˈnəʊn/",
+      "meaning": "nổi tiếng",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 3,
+      "ipa_us": "/ˌwel ˈnoʊn/"
+    },
+    {
+      "id": "bo48-04",
+      "word": "riverfront",
+      "ipa": "/ˈrɪvəfrʌnt/",
+      "meaning": "khu bờ sông",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 4,
+      "ipa_us": "/ˈrɪvərfrʌnt/"
+    },
+    {
+      "id": "bo48-05",
+      "word": "mileage",
+      "ipa": "/ˈmaɪlɪdʒ/",
+      "meaning": "quãng đường đã đi",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 5
+    },
+    {
+      "id": "bo48-06",
+      "word": "calmly",
+      "ipa": "/ˈkɑːmli/",
+      "meaning": "một cách bình tĩnh",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 6
+    },
+    {
+      "id": "bo48-07",
+      "word": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "meaning": "lời phàn nàn",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 7
+    },
+    {
+      "id": "bo48-08",
+      "word": "handle",
+      "ipa": "/ˈhændl/",
+      "meaning": "xử lý",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 8
+    },
+    {
+      "id": "bo48-09",
+      "word": "coastal",
+      "ipa": "/ˈkəʊstl/",
+      "meaning": "nằm ven biển",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 9,
+      "ipa_us": "/ˈkoʊstl/"
+    },
+    {
+      "id": "bo48-10",
+      "word": "likely",
+      "ipa": "/ˈlaɪkli/",
+      "meaning": "có khả năng xảy ra",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 10
+    },
+    {
+      "id": "bo48-11",
+      "word": "ability",
+      "ipa": "/əˈbɪləti/",
+      "meaning": "khả năng",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 11
+    },
+    {
+      "id": "bo48-12",
+      "word": "remain",
+      "ipa": "/rɪˈmeɪn/",
+      "meaning": "vẫn giữ nguyên",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 12
+    },
+    {
+      "id": "bo48-13",
+      "word": "calm",
+      "ipa": "/kɑːm/",
+      "meaning": "bình tĩnh",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 13
+    },
+    {
+      "id": "bo48-14",
+      "word": "entrance",
+      "ipa": "/ˈentrəns/",
+      "meaning": "lối vào",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 14
+    },
+    {
+      "id": "bo48-15",
+      "word": "reluctant",
+      "ipa": "/rɪˈlʌktənt/",
+      "meaning": "miễn cưỡng",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 15
+    },
+    {
+      "id": "bo48-16",
+      "word": "sort",
+      "ipa": "/sɔːt/",
+      "meaning": "sắp xếp",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 16,
+      "ipa_us": "/sɔːrt/"
+    },
+    {
+      "id": "bo48-17",
+      "word": "outage",
+      "ipa": "/ˈaʊtɪdʒ/",
+      "meaning": "sự cố gián đoạn dịch vụ",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 17
+    },
+    {
+      "id": "bo48-18",
+      "word": "manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "meaning": "xoay xở làm được",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 18
+    },
+    {
+      "id": "bo48-19",
+      "word": "sudden",
+      "ipa": "/ˈsʌdn/",
+      "meaning": "đột ngột",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 19
+    },
+    {
+      "id": "bo48-20",
+      "word": "arrangement",
+      "ipa": "/əˈreɪndʒmənt/",
+      "meaning": "sự thu xếp",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 20
+    },
+    {
+      "id": "bo48-21",
+      "word": "caterer",
+      "ipa": "/ˈkeɪtərə(r)/",
+      "meaning": "đơn vị cung cấp suất ăn",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 21,
+      "ipa_us": "/ˈkeɪtərər/"
+    },
+    {
+      "id": "bo48-22",
+      "word": "instruct",
+      "ipa": "/ɪnˈstrʌkt/",
+      "meaning": "dặn ai đó làm gì",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 22
+    },
+    {
+      "id": "bo48-23",
+      "word": "enable",
+      "ipa": "/ɪˈneɪbl/",
+      "meaning": "giúp ai đó có thể làm gì",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 23
+    },
+    {
+      "id": "bo48-24",
+      "word": "permit",
+      "ipa": "/pəˈmɪt/",
+      "meaning": "cho phép",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 24,
+      "ipa_us": "/pərˈmɪt/"
+    },
+    {
+      "id": "bo48-25",
+      "word": "fitness",
+      "ipa": "/ˈfɪtnəs/",
+      "meaning": "thể lực",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 25
+    },
+    {
+      "id": "bo48-26",
+      "word": "senior",
+      "ipa": "/ˈsiːniə(r)/",
+      "meaning": "cấp cao",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 26,
+      "ipa_us": "/ˈsiːnjər/"
+    },
+    {
+      "id": "bo48-27",
+      "word": "access",
+      "ipa": "/ˈækses/",
+      "meaning": "ra vào",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 27
+    },
+    {
+      "id": "bo48-28",
+      "word": "authorize",
+      "ipa": "/ˈɔːθəraɪz/",
+      "meaning": "cho phép chính thức",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 28
+    },
+    {
+      "id": "bo48-29",
+      "word": "arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "meaning": "sắp xếp",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 29
+    },
+    {
+      "id": "bo48-30",
+      "word": "carpet",
+      "ipa": "/ˈkɑːpɪt/",
+      "meaning": "tấm thảm trải sàn",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 30,
+      "ipa_us": "/ˈkɑːrpɪt/"
+    },
+    {
+      "id": "bo48-31",
+      "word": "supervisor",
+      "ipa": "/ˈsuːpəvaɪzə(r)/",
+      "meaning": "người giám sát",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 31,
+      "ipa_us": "/ˈsuːpərvaɪzər/"
+    },
+    {
+      "id": "bo48-32",
+      "word": "encourage",
+      "ipa": "/ɪnˈkʌrɪdʒ/",
+      "meaning": "khuyến khích",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 32,
+      "ipa_us": "/ɪnˈkɜːrɪdʒ/"
+    },
+    {
+      "id": "bo48-33",
+      "word": "raise",
+      "ipa": "/reɪz/",
+      "meaning": "nêu ra",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 33
+    },
+    {
+      "id": "bo48-34",
+      "word": "conserve",
+      "ipa": "/kənˈsɜːv/",
+      "meaning": "tiết kiệm",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 34,
+      "ipa_us": "/kənˈsɜːrv/"
+    },
+    {
+      "id": "bo48-35",
+      "word": "downtown",
+      "ipa": "/ˌdaʊnˈtaʊn/",
+      "meaning": "ở khu trung tâm thành phố",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 35
+    },
+    {
+      "id": "bo48-36",
+      "word": "urge",
+      "ipa": "/ɜːdʒ/",
+      "meaning": "thúc giục",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 36,
+      "ipa_us": "/ɜːrdʒ/"
+    },
+    {
+      "id": "bo48-37",
+      "word": "refuse",
+      "ipa": "/rɪˈfjuːz/",
+      "meaning": "từ chối",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 37
+    },
+    {
+      "id": "bo48-38",
+      "word": "hesitant",
+      "ipa": "/ˈhezɪtənt/",
+      "meaning": "do dự",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 38
+    },
+    {
+      "id": "bo48-39",
+      "word": "approve",
+      "ipa": "/əˈpruːv/",
+      "meaning": "phê duyệt",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 39
+    },
+    {
+      "id": "bo48-40",
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaning": "ngân sách",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 40
+    },
+    {
+      "id": "bo48-41",
+      "word": "suggestion",
+      "ipa": "/səˈdʒestʃən/",
+      "meaning": "lời gợi ý",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 41,
+      "ipa_us": "/səɡˈdʒestʃən/"
+    },
+    {
+      "id": "bo48-42",
+      "word": "lobby",
+      "ipa": "/ˈlɒbi/",
+      "meaning": "sảnh",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 42,
+      "ipa_us": "/ˈlɑːbi/"
+    },
+    {
+      "id": "bo48-43",
+      "word": "audit",
+      "ipa": "/ˈɔːdɪt/",
+      "meaning": "cuộc kiểm toán",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 43
+    },
+    {
+      "id": "bo48-44",
+      "word": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "meaning": "hóa đơn đòi tiền",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 44
+    },
+    {
+      "id": "bo48-45",
+      "word": "advise",
+      "ipa": "/ədˈvaɪz/",
+      "meaning": "khuyên",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 45
+    },
+    {
+      "id": "bo48-46",
+      "word": "accountant",
+      "ipa": "/əˈkaʊntənt/",
+      "meaning": "kế toán viên",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 46
+    },
+    {
+      "id": "bo48-47",
+      "word": "venue",
+      "ipa": "/ˈvenjuː/",
+      "meaning": "địa điểm tổ chức",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 47
+    },
+    {
+      "id": "bo48-48",
+      "word": "decision",
+      "ipa": "/dɪˈsɪʒən/",
+      "meaning": "quyết định",
+      "deck": "Bộ 48 từ",
+      "group": "TO V",
+      "order": 48
+    }
+  ]
+}
